@@ -7,3 +7,5 @@ The PNG files are basic visualization files of several variables, completed in R
 `presummer` -  before August 1, 1991
 
 `postsummer`- after August 3, 1991
+
+`Jan_Zingst_691` contains the ad-hoc analyses in Excel for nitrate parameters
